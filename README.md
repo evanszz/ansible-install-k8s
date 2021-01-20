@@ -1,11 +1,11 @@
 # Kubernetes v1.18 高可用集群自动部署（离线版）
 部署环境：
 
-    | 系统版本  | IP地址 |  主机业务 |
-    | ------------- | ------------- | ------------- |
-    | CentOS Linux release 7.8.2003 (Core)  | 192.168.31.61  | master  |
-    | CentOS Linux release 7.8.2003 (Core)  | 192.168.31.62  | node01  |
-    | CentOS Linux release 7.8.2003 (Core)  | 192.168.31.63  | node01  |
+| 系统版本  | IP地址 |  主机业务 |
+| ------------- | ------------- | ------------- |
+| CentOS Linux release 7.8.2003 (Core)  | 192.168.31.61  | master  |
+| CentOS Linux release 7.8.2003 (Core)  | 192.168.31.62  | node01  |
+| CentOS Linux release 7.8.2003 (Core)  | 192.168.31.63  | node01  |
 
 
 
